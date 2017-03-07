@@ -12,6 +12,9 @@ namespace Example01
         {
             Console.WriteLine((1 / 2) * 10);
             Console.WriteLine((1.0 / 2.0) * 10.0);
+
+            string a = "a";
+            Console.WriteLine(a);
             Console.ReadLine();
         }
     }
