@@ -26,6 +26,9 @@ namespace Example03
             Console.WriteLine(sql);
             Console.WriteLine(xml);
             Console.WriteLine(json);
+
+            int? age = null;
+            Console.WriteLine(age);
             Console.ReadLine();
         }
     }
